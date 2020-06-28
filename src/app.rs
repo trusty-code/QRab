@@ -22,8 +22,8 @@ impl Component for App {
         Self {
             link,
             value: 0,
-            name: ("🦀 QRB").into(),
-            description: ("Use CrabQR to scan QR codes incredibly fast and easy.").into()
+            name: ("🦀 QRab").into(),
+            description: ("Use QRab to scan QR codes incredibly fast and easy.").into()
         }
     }
 
