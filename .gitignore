@@ -1,0 +1,7 @@
+/target
+bin/
+pkg/
+dist/
+wasm-pack.log
+node_modules
+.DS_Store
